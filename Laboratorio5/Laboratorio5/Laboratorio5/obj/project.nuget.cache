@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFw128axZ9WHL7JUVOyKOjbjDL6P/y+c+LkUOMLKGkLXjmh21DhRismvVlOJ+5Q5WPfaSdLEa0xi6efVWU0DfA==",
+  "success": true,
+  "projectFilePath": "F:\\TECSUP\\5to ciclo\\Aplicaciones moviles multiplataforma\\Laboratorio5\\Laboratorio5\\Laboratorio5\\Laboratorio5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,52 @@
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.csprojAssemblyReference.cache
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\Laboratorio5.deps.json
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\ref\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\Laboratorio5.pdb
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ButtonCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ButtonDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\DatepickerDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EditorCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EditorDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EmbeddedImage.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EntryCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EntryDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ImageDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\LabelCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\LabelDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.AssemblyInfoInputs.cache
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.AssemblyInfo.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.csproj.CoreCompileInputs.cache
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\XamlC.stamp
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ref\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.pdb
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\lab 5\lab\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\localimage.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\Laboratorio5.deps.json
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\ref\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\bin\Debug\netstandard2.0\Laboratorio5.pdb
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.csprojAssemblyReference.cache
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ButtonCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ButtonDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\DatepickerDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EditorCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EditorDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EmbeddedImage.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EntryCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\EntryDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ImageDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\LabelCode.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\LabelDemo.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\LocalImage.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.AssemblyInfoInputs.cache
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.AssemblyInfo.cs
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.csproj.CoreCompileInputs.cache
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\XamlC.stamp
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\ref\Laboratorio5.dll
+F:\TECSUP\5to ciclo\Aplicaciones moviles multiplataforma\Laboratorio5\Laboratorio5\Laboratorio5\obj\Debug\netstandard2.0\Laboratorio5.pdb
